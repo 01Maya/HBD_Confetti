@@ -41,7 +41,7 @@ You can run this project either by cloning the repository or downloading the fil
 
 
 ## Screenshots
-
+![hbd confetti](https://github.com/user-attachments/assets/4979dde7-5321-42c0-94a6-608cee405f2f)
 
 
 
